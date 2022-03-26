@@ -4,7 +4,7 @@ const router = express.Router();
 * @openapi
 * /api/hello:
 *   get:
-*     description: Welcome to swagger-jsdoc!
+*     description: Welcome to swagger-jsdoc! change test
 *     parameters:
 *       - name: name
 *         in: query
